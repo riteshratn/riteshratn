@@ -3,8 +3,8 @@ Hi there, This is Ritesh. 👋
 
 Here is what I am working on:
 
-- 🔭 I’m currently working on Android Applications.
-- 🌱 I’m currently learning Data structures and Algorithm.
+- 🔭 I’m currently working on Web designs.
+- 🌱 I’m currently learning Web development.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ritesh-kumar-76b0b61a1
 - 😄 Pronouns: He/Him.
