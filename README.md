@@ -3,7 +3,7 @@ Hi there, This is Ritesh. 👋
 
 Here is what I am working on:
 
-- 🔭 I’m currently working on backend.
+- 🔭 I’m currently working as a Software Trainee at TFT.
 - 🌱 I’m currently learning NodeJS.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ritesh-kumar-76b0b61a1
